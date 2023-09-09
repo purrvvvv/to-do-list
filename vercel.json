@@ -5,7 +5,7 @@
     ],
     "routes": [
       { "handle": "filesystem" },
-      { "src": "/.*", "dest": "index.js" }
+      { "src": "/.*", "dest": "index.ejs" }
     ]
   }
   
